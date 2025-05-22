@@ -9,4 +9,4 @@ COPY index.php /usr/share/nginx/html/
 COPY heap.js /usr/share/nginx/html/
 
 # Expose port 8000
-EXPOSE 8000
+EXPOSE 80
